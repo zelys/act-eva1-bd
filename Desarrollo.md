@@ -181,7 +181,7 @@ GROUP BY EM.Esp_Cod_Usuario, EM.Esp_Cod_Glosa, A.Ate_Actividad;
 
 ![ConsultaUno](/img1.png)
 
-- Listar las Consultas Repetidas efectuadas entre el 02 de junio y el 9 de junio conlos siguientes campos:
+- Listar las Consultas Repetidas efectuadas entre el 02 de junio y el 9 de junio con los siguientes campos:
 
   - Pac_Rut
 
